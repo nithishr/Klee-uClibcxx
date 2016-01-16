@@ -1,0 +1,500 @@
+    8  git status
+    9  ipython notebook
+   10  git checkout MalwareClassification 
+   11  git status
+   12  ipython notebook
+   13  git status
+   14  git status
+   15  git status
+   16  git pull
+   17  git status
+   18  git checkout master
+   19  git pull
+   20  git status
+   21  ipython notebook
+   22  git status
+   23  git commit -am"Added the plots for Selection of paremeters for classification, comparison of classifiers"
+   24  git push
+   25  ipython notebook
+   26  git pull
+   27  git status
+   28  git checkout Predictions.csv
+   29  git checkout .ipynb_checkpoints/*
+   30  git status
+   31  git checkout Malware_Classification_Challenge_3.ipynb
+   32  git pull
+   33  ipython notebook
+   34  git status
+   35  git pull
+   36  ipython notebook
+   37  ipython notebook
+   38  python
+   39  git status
+   40  git status
+   41  git commit -am"Finalised the code, added the ppt"
+   42  git push
+   43  git status
+   44  git add -A
+   45  git status
+   46  git commit -m"Slight change to code"
+   47  git push
+   48  git status
+   49  git status
+   50  git commit -am"PPT modified"
+   51  git push
+   52  sudo tlp start
+   53  git pull
+   54  git status
+   55  git add -A
+   56  git add -A :/
+   57  git status
+   58  git commit -m"Added springer journal"
+   59  git push
+   60  git status
+   61  git status
+   62  git add -A
+   63  git commit -m"Added the report, updated ppt"
+   64  git push
+   65  git checkout -b raghunandanan-nithish
+   66  git add -A
+   67  git status
+   68  git commit -m"Solved the pattern"
+   69  git push
+   70  git push --set-upstream origin raghunandanan-nithish 
+   71  cd noxprop
+   72  git status
+   73  git pull
+   74  git status
+   75  git commit -am"Blocked the signals for resetting the UI elements from loadUISettings()"
+   76  git push
+   77  git pull
+   78  git status
+   79  git commit -am"Added the handler to display roller(None/Not None) settings while switching users"
+   80  git push
+   81  git status
+   82  git commit -am"Initialisations for IOWidget"
+   83  git push
+   84  git pull
+   85  git pull
+   86  git status
+   87  rm -rf Challenges/Malware_Classification_Challenge_3/.~lock.Ppt\ -\ Malware\ Classification\ Challenge-3.odp# 
+   88  git status
+   89  git pull
+   90  git status
+   91  git commit -am"Updated the ppt & report"
+   92  git push
+   93  git status
+   94  git status
+   95  git add -A
+   96  git commit -m"Added Challenge 4"
+   97  git status
+   98  git push
+   99  git pull
+  100  sudo tlp start
+  101  git pull
+  102  git status
+  103  git checkout usb/settings.cpp
+  104  git status
+  105  git status
+  106  git status
+  107  git checkout -b test_writeSettings
+  108  git status
+  109  git commit -am"Test for float settings write"
+  110  git push
+  111  git push --set upstream origin test_writeSettings 
+  112  git push --set upstream origin test_writeSettings 
+  113  git push -u origin origin/test_writeSettings
+  114  git push -u test_writeSettings origin
+  115  git status
+  116  git push --set upstream origin test_writeSettings 
+  117  c
+  118  git push --set upstream origin test_writeSettings 
+  119  git push origin test_writeSettings
+  120  git pull
+  121  git branch --set-upstream-to=origin/test_writeSettings test_writeSettings 
+  122  git pull
+  123  git status
+  124  git commit -am"Added the settings export"
+  125  git push
+  126  git status
+  127  git pull
+  128  git status
+  129  git commit-am"HW6"
+  130  git commit -am"HW6"
+  131  git push
+  132  git clone ssh://git@repobruegge.in.tum.de:7999/pse1516/l10t1_e_junit.git
+  133  git clone ssh://git@repobruegge.in.tum.de:7999/pse1516/l10t2_e_inventorytest.git
+  134  git clone ssh://git@repobruegge.in.tum.de:7999/pse1516/l10t3_e_easymock.git
+  135  java
+  136  which java
+  137  java --version
+  138  sudo apt-get install jdk
+  139  sudo apt-get install junit
+  140  which junit
+  141  cd l10t2_e_inventorytest/
+  142  ls
+  143  git status
+  144  git checkout -b raghunandanan-nithish
+  145  git add -A
+  146  git commit -m"Solved the problem"
+  147  git push -u origin raghunandanan-nithish
+  148  cd ../l10t3_e_easymock/
+  149  ls
+  150  git checkout -b raghunandanan-nithish
+  151  git add -A
+  152  git commit -m"Solved the problem"
+  153  git push
+  154  git push -u origin raghunandanan-nithish 
+  155  git status
+  156  git commit -am"Corrected"
+  157  git push
+  158  sudo apt-get install git gui
+  159  sudo apt-get install git-gui
+  160  sudo apt-get install gitk
+  161  git gui
+  162  git gui
+  163  gitk
+  164  git status
+  165  git pull
+  166  ipython notebook
+  167  ipython notebook
+  168  python
+  169  git status
+  170  python
+  171  git status
+  172  git pull
+  173  git status
+  174  git checkout Challenges/Spam\ Filtering\ Challenge\ 4/Spam_Filtering_Challenge_4.ipynb
+  175  git status 
+  176  git checkout Challenges/Spam\ Filtering\ Challenge\ 4/*
+  177  git checkout Challenges/Spam\ Filtering\ Challenge\ 4/ *
+  178  git status
+  179  git pull
+  180  rm -rf Challenges/Spam\ Filtering\ Challenge\ 4/.ipynb_checkpoints/
+  181  git pull
+  182  git status
+  183  ipython notebook
+  184  git status
+  185  rm -rf Challenges/Spam\ Filtering\ Challenge\ 4/1Spam_Filtering_Challenge_4.ipynb 
+  186  git status
+  187  git add -A
+  188  git status
+  189  git commit -m"Added Naive Bayes Classifier"
+  190  git push
+  191  traceroute www.google.com
+  192  echo C_INCLUDE_PATH
+  193  echo $C_INCLUDE_PATH
+  194  sudo apt-get install reaver
+  195  sudo tlp start
+  196  type klee-uclibc.bca
+  197  file klee-uclibc.bca
+  198  make clean
+  199  make
+  200  make clean
+  201  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uclibc/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  202  make
+  203  make test
+  204  git status
+  205  git checkout tools/kleaver/Makefile
+  206  ls
+  207  git status
+  208  make
+  209  make clean
+  210  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uclibc/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  211  make
+  212  make test
+  213  aclocal
+  214  sudo apt-get install automake
+  215  aclocal
+  216  ls
+  217  make
+  218  make clean
+  219  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uclibc/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  220  ln -s ~/Downloads/klee-uClibc++/src/libuClibc++.a ./libuClibc++
+  221  ls
+  222  ln -s ~/Downloads/klee-uClibc++/src/libuClibc++.a ../src/libuClibc++
+  223  cd ..
+  224  cd src
+  225  make clean
+  226  ls
+  227  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  228  make clean
+  229  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  230  make clean
+  231  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  232  make clean
+  233  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  234  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/src/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  235  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  236  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  237  cd autoconf/
+  238  ls
+  239  autoconf
+  240  sudo apt-get install autoconf
+  241  autoconf
+  242  aclocal
+  243  autoconf
+  244  cd ..
+  245  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  246  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  247  make
+  248  git status
+  249  git diff Makfile.common
+  250  git diff Makefile.common
+  251  git diff autoconf/configure.ac
+  252  git diff configure
+  253  make
+  254  make
+  255  make
+  256  make
+  257  make
+  258  make
+  259  make
+  260  make
+  261  make
+  262  make
+  263  make
+  264  make
+  265  make
+  266  make
+  267  git status
+  268  git checkout autoconf/configre.ac
+  269  git checkout autoconf/configure.ac
+  270  git stauts
+  271  git status
+  272  make clean
+  273  ./configure --with-stp=/home/nithishr/Downloads/stp-2.1.0 --with-uclibc=/home/nithishr/Downloads/klee-uClibc++/ --enable-posix-runtime --with-llvmsrc=/usr/lib/llvm-3.4/build  --with-llvmobj=/usr/lib/llvm-3.4/build --with-llvmcc=/usr/bin/clang-3.4 --with-llvmcxx=/usr/bin/clang++-3.4
+  274  make
+  275  git status
+  276  git diff Makefile.common
+  277  git diff runtime/klee-uclibc/Makefile
+  278  make
+  279  make
+  280  make
+  281  make
+  282  ln -s ~/Downloads/klee-uClibc++/src/libuClibc++.a ../src/libuClibc++
+  283  ls
+  284  sudo tlp start
+  285  man ln
+  286  make
+  287  make
+  288  make
+  289  make
+  290  make
+  291  make
+  292  make
+  293  ls
+  294  make
+  295  cd /home/nithishr/Downloads/klee-c++/klee/Release+Asserts/src/
+  296  cd Release+Asserts/
+  297  ls
+  298  mkdir src
+  299  ls
+  300  cd src
+  301  ls
+  302  ls
+  303  file libuClibc++.a 
+  304  git status
+  305  git pull
+  306  sudo tlp start
+  307  man google-chrome-stable 
+  308  python
+  309  git status
+  310  git pull
+  311  ipython notebook
+  312  uptime
+  313  git status
+  314  git pull
+  315  git status
+  316  git add -A
+  317  git commit -m"Added the demo settings file"
+  318  git push
+  319  git status
+  320  git branch
+  321  git status
+  322  git pull
+  323  git status
+  324  git pull
+  325  git branch master
+  326  git checkout master
+  327  git pull
+  328  git merge test_writeSettings 
+  329  git status
+  330  git push
+  331  git status
+  332  git status
+  333  git log
+  334  git status
+  335  git checkout iowidget.cpp
+  336  git status
+  337  git status
+  338  git checkout usb/qtusbinterface.cpp
+  339  git status
+  340  git diff mainwindow.cpp
+  341  git status
+  342  git commit -am"Fixed bug in User Profile Settings window while changing languages"
+  343  git push
+  344  git pull
+  345  git push
+  346  git log
+  347  python
+  348  git status
+  349  git pull
+  350  ipython notebook
+  351  python 
+  352  python 
+  353  python
+  354  python
+  355  vw
+  356  ls
+  357  ipython notebook
+  358  ipython notebook
+  359  history | grep vw
+  360  vw --oaa 2 trainSubjects.txt -f oaa.model
+  361  vw --oaa 2 trainSubjects.txt -f oaa.model
+  362  vw --oaa 2 trainSubjects.txt -f oaa.model
+  363  vw trainSubjects.txt
+  364  vw --oaa 2 trainSubjects.txt -f oaa.model
+  365  vw trainSubjects.txt
+  366  vw --oaa 2 trainSubjects.txt -f oaa.model
+  367  vw trainSubjects.txt
+  368  vw -d trainSubjects.txt
+  369  vw -d trainSubjects.txt -c --passes 10 -f predictor.vw
+  370  ls
+  371  vw -d trainSubjects.txt
+  372  vw -d trainSubjects.txt
+  373  vw -d trainSubjects.txt -c --passes 10 -f predictor.vw
+  374  vw -d trainSubjects.txt
+  375  vw -d trainSubjects.txt -c --passes 10 -f  --searn k --searn_task
+  376  sequence --searn_beta 0.5 --searn_passes_per_policy 2 -f
+  377  vw -d trainSubjects.txt -c --passes 10 -f predictor.txt
+  378  vw -d trainSubjects.txt -c --passes 10 -f predictor.txt
+  379  vw -d trainSubjects.txt -c --passes 10 -f predictor.vw
+  380  vw -d trainSubjects.txt -c --passes 10 -f predictor.vw
+  381  vw -d testSubjects.txt -c --passes 10 -i predictor.vw -p predictor.txt
+  382  vw -d testSubjects.txt -c --passes 10 -i predictor.vw -p predictor.txt
+  383  vw -d trainSubjects.txt -c --passes 10 -f predictor.txt
+  384  vw -d testSubjects.txt -c --passes 10 -i predictor.vw -p predictor.txt
+  385  vw --oaa 2 trainSubjects.txt -f ooa_subs.model
+  386  ls
+  387  vw -t -i oaa.model testSubjects.txt -p oaa.predict
+  388  vw -t -i oaa_subs.model testSubjects.txt -p oaa.predict
+  389  vw -t -i ooa_subs.model testSubjects.txt -p oaa.predict
+  390  vw -t -i ooa_subs.model trainSubjects.txt -p oaa.predict
+  391  vw -d trainSubjects.txt --adaptive -l1 -f predictor.vw
+  392  ls
+  393  vw -d trainSubjects.txt -i predictor.vw -p predictor.txt 
+  394  vw -d trainSubjects.txt -c --passes 10 -f predictor.vw
+  395  vw -d testSubjects.txt -t -i predictor.vw
+  396  vw -d testSubjects.txt -t -i predictor.vw -p predictor.txt
+  397  vw -d trainSubjects.txt -t -i predictor.vw -p predictor.txt
+  398  vw --version
+  399  vw -d trainSubjects.txt -c --passes 10 -f predictor.vw
+  400  vw -d testSubjects.txt -t -i predictor.vw -p predictor.txt
+  401  vw -d trainSubjects.txt -c --passes 10 --loss_function=logistic -f predictor.vw
+  402  vw -d testSubjects.txt -t -i predictor.vw -p predictor.txt
+  403  vw -d trainSubjects.txt -c --passes 10 --loss_function=logistic --binary -f predictor.vw
+  404  vw -d testSubjects.txt -t -i predictor.vw -p predictor.txt
+  405  git status
+  406  cd Challenges/Spam\ Filtering\ Challenge\ 4/
+  407  git status
+  408  git status
+  409  git add pylibvw.so pyvw.py pyvw.pyc  testSubjects.txt testSubjects.txt.cache trainSubjects.txt trainSubjects.txt.cache 
+  410  git status
+  411  git status
+  412  git checkout -b vowpal_wabbit
+  413  git status
+  414  git add Predictions.csv  Spam_Filtering_Challenge_4.ipynb .ipynb_checkpoints/Spam_Filtering_Challenge_4-checkpoint.ipynb 
+  415  git status
+  416  git commit -m"Added the vowpal wabbit classifications"
+  417  git push
+  418  git push --set-upstream origin vowpal_wabbit 
+  419  git branch
+  420  git status
+  421  git pul
+  422  git pull
+  423  git pull
+  424  git status
+  425  git commit -am"Changed StdAfx.h to stdafx.h to remove build error in linux"
+  426  git status
+  427  git push
+  428  ls *.ini
+  429  ls | grep *.ini
+  430  ls | grep *.h
+  431  git status
+  432  git pull
+  433  git status
+  434  git diff
+  435  git commit -am"Bug fix for updating user profile combo box  in user profile settings"
+  436  git push
+  437  git status
+  438  git checkout iowidget.cpp
+  439  git status
+  440  git status
+  441  git status
+  442  git checkout usb/qtusbinterface.cpp
+  443  git status
+  444  git pull
+  445  git pull
+  446  git pull
+  447  git pull
+  448  git pull
+  449  git status
+  450  git diff 
+  451  ls
+  452  git status
+  453  git checkout de_DE.ts
+  454  git status
+  455  git diff noxprop.pro
+  456  git status
+  457  git diff mainwindow.cpp
+  458  git status
+  459  git diff usb/qtusbinterface.cpp
+  460  git diff usb/settings.h
+  461  git diff settings.cpp
+  462  git diff usb/settings.cpp
+  463  git status
+  464  git diff waitdialog.h
+  465  git diff waitdialog.cpp
+  466  git status
+  467  git add -A
+  468  git commit -m "Added the dialog to wait for the USB Connection/Simulation Mode"
+  469  git status
+  470  git push
+  471  git status
+  472  git diff usb/settings.cpp
+  473  git commit -am"Bug fix for Wait Dialog"
+  474  git push
+  475  git status
+  476  git status
+  477  git commit -am"Fixed warnings in IOWidget, WaitDialog"
+  478  git push
+  479  git pull
+  480  git status
+  481  git status
+  482  git push
+  483  git pull
+  484  git status
+  485  git diff mainwindow.cpp
+  486  git diff settingdatacontroller.cpp
+  487  git status
+  488  git commit -am"Bug fix for dynamic usb connection in wait dialog"
+  489  git push
+  490  git pull
+  491  git push
+  492  git status
+  493  git status
+  494  ls
+  495  file libuClibc++.a 
+  496  file libuClibc++.a 
+  497  cd ../lib
+  498  file libuClibc++.a 
+  499  make menuconfig
+  500  configure
+  501  ./configure
+  502  ls
+  503  make
+  504  ls
+  505  sudo make install
+  506  ls /usr/uClibc++/lib/
+  507  history > dump.txt
